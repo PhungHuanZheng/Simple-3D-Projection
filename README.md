@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="utah_teapot_spinning" src="https://github.com/user-attachments/assets/4c3c3491-92c8-427a-81c5-3a56151c0284" /># Usage
+# Usage
 To swap models between the Simple Cube and Utah Teapot, swap the respective model from the "models" subdirectory to "model" and comment out their respective code blocks in setup() and draw().
 As a result of the differences between their dataset structures, this hard coded way is laziest
 
