@@ -8,7 +8,7 @@ At small scales with only 8 points and 12 faces, imperfections in the simple Pai
 <div align="center">gifs/simple_cube_spinning.gif</div>
 
 ## Utah Teapot
-At large scales with 18960 individual points, the result looks:
+At large scales with 18960 individual points, the imperfections are less obvious:
 <p align="center"><img width="600" height="600" alt="utah_teapot_spinning" src="https://github.com/user-attachments/assets/cda2ca15-c6c3-4f18-a6be-f01c61822952" /></p>
 <div align="center">gifs/utah_teapot_spinning.gif</div>
 
